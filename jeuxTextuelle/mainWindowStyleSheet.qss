@@ -1,0 +1,14 @@
+QWidget
+{
+    color: white;
+}
+
+QFrame#textContainer QLabel
+{
+    font-size: 20px;
+    font-family: Times;
+
+
+}
+
+

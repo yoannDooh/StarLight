@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" width="225.506" height="28.01" viewBox="0 0 225.506 28.01">
+  <g id="c" data-name="Calque 2">
+    <g>
+      <polygon points="225.003 25.503 .503 27.503 .503 .503 225.003 .503 225.003 25.503" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.006"/>
+      <g>
+        <rect x="6.503" y="5.253" width="18" height="18" fill="#117fed"/>
+        <rect x="114.558" y="5.253" width="18" height="18" fill="#117fed"/>
+        <rect x="92.947" y="5.253" width="18" height="18" fill="#117fed"/>
+        <rect x="71.336" y="5.253" width="18" height="18" fill="#117fed"/>
+        <rect x="49.6" y="5.253" width="18.25" height="18" fill="#117fed"/>
+        <rect x="28.114" y="5.253" width="18" height="18" fill="#117fed"/>
+      </g>
+    </g>
+  </g>
+</svg>

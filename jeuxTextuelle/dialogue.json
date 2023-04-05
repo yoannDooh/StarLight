@@ -1,0 +1,80 @@
+[ [
+    {
+    "charac": "",
+    "friendshipRequis": 0,
+    "numero": 1,
+    "replique": "Nous sommes en 21XX, au bord du grand vaisseau Starlight, il abrite une équipe de 25 astronautes sur-entrainées explorant une galaxie lointaine depuis 5 ans.",
+    "event": 0,
+    "consequences":
+      {
+      "friendship?": false,
+      "pv?": false,
+      "characPv": "",
+      "characFriendship": "",
+      "howMuchPv": 0,
+      "howMuchFriendship": 0
+
+      }
+
+    },
+
+    {
+    "charac": "Kalpana",
+    "friendshipRequis": 0,
+    "numero": 0,
+    "replique": "Bravo l’équipe les recherches portent leur fruit, on va enfin rentrer bientôt à la maison et en grande légende. Et si on fêtait ça !",
+    "event": 0,
+    "consequences":
+      {
+      "friendship?": true,
+      "pv?": true,
+      "characPv": ["Jeanette","Hans"],
+      "characFriendship": ["Anna","Pedro"],
+      "howMuchPv": -5,
+      "howMuchFriendship": -4
+
+      }
+
+    }
+],
+
+ [
+    {
+    "charac": "Johnson",
+    "friendshipRequis": 0,
+    "numero": 0,
+    "replique": "TROP BIEN",
+    "event": 0,
+   "consequences":
+      {
+      "friendship?": true,
+      "pv?": true,
+      "characPv": ["Jeanette","Hans"],
+      "characFriendship": ["Anna","Pedro"],
+      "howMuchPv": -5,
+      "howMuchFriendship": -4
+
+      }
+    },
+
+    {
+    "charac": "Jeanette",
+    "friendshipRequis": 8,
+    "numero": 1,
+    "replique": "Wow ça dit quoi l'équipe",
+    "event": 1,
+   "consequences":
+      {
+      "friendship?": true,
+      "pv?": true,
+      "characPv": ["Jeanette","Hans"],
+      "characFriendship": ["Anna","Pedro"],
+      "howMuchPv": -5,
+      "howMuchFriendship": -4
+
+      }
+
+    }
+]
+]
+

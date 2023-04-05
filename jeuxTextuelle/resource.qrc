@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ressources/images/icons/square.svg</file>
+        <file>ressources/images/icons/StarLight_Logo.png</file>
+        <file>ressources/images/sprites/gauges/gauge.png</file>
+        <file>ressources/images/sprites/gauges/jauge.png</file>
+    </qresource>
+    <qresource prefix="/charac">
+        <file>ressources/images/sprites/charac/Anna Kikina.png</file>
+        <file>ressources/images/sprites/charac/Commandante.png</file>
+        <file>ressources/images/sprites/charac/Hans Schlegel.png</file>
+        <file>ressources/images/sprites/charac/Jeanette Epps.png</file>
+        <file>ressources/images/sprites/charac/Johnson Walker.png</file>
+        <file>ressources/images/sprites/charac/Pedro Pontes.png</file>
+    </qresource>
+    <qresource prefix="/jauges/endurance">
+        <file>ressources/images/sprites/gauges/Endurance/1.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/2.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/3.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/4.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/5.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/6.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/7.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/8.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/9.svg</file>
+        <file>ressources/images/sprites/gauges/Endurance/10.svg</file>
+    </qresource>
+    <qresource prefix="/jauges/pv">
+        <file>ressources/images/sprites/gauges/Vie/1.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/2.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/3.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/4.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/5.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/6.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/7.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/8.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/9.svg</file>
+        <file>ressources/images/sprites/gauges/Vie/10.svg</file>
+    </qresource>
+    <qresource prefix="/jauges/intelligence">
+        <file>ressources/images/sprites/gauges/Intelligence/1.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/2.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/3.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/4.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/5.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/6.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/7.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/8.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/9.svg</file>
+        <file>ressources/images/sprites/gauges/Intelligence/10.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>charac.json</file>
+        <file>events.json</file>
+        <file>dialogue.json</file>
+        <file>mainWindowStyleSheet.qss</file>
+    </qresource>
+</RCC>

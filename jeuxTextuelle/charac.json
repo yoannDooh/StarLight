@@ -1,0 +1,56 @@
+{ "mainGroup" : [
+
+   {
+    "endurance": 6,
+    "intelligence" : 8,
+    "friendship": 8,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Jeanette Epps.png",
+    "prenom": "Jeanette",
+    "nom": "Epps"
+    },
+
+    {
+    "endurance": 7,
+    "intelligence" : 5,
+    "friendship": 2,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Hans Schlegel.png",
+    "prenom": "Hans",
+    "nom": "Schlegel"
+    },
+
+     {
+    "endurance": 9,
+    "intelligence" : 4,
+    "friendship": 7,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Pedro Pontes.png",
+    "prenom": "Pedro",
+    "nom": "Pontes"
+    },
+
+    {
+    "endurance": 5,
+    "intelligence" : 9,
+    "friendship": 4,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Anna Kikina.png",
+    "prenom": "Anna",
+    "nom": "Kikina"
+    },
+
+    {
+    "endurance": 10,
+    "intelligence" : 10,
+    "friendship": 10,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Johnson Walker.png",
+    "prenom": "Johnson",
+    "nom": "Walker"
+    },
+
+    {
+    "endurance": 10,
+    "intelligence" :10,
+    "friendship": 10,
+    "spriteEmplacement": ":/charac/ressources/images/sprites/charac/Commandante.png",
+    "prenom": "Kalpana",
+    "nom": "Chawla"
+    }
+] }

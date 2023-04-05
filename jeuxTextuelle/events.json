@@ -1,0 +1,74 @@
+{"sequence1":[
+    {
+      "choix1": "feur",
+      "choix2": "feur",
+      "choix3":"feur",
+      "choix4": "feur",
+      "numero": 1,
+      "consequences":
+      {
+        "friendship?": true,
+        "pv?": true,
+        "characPv": ["Jeanette","Hans"],
+        "characFriendship": ["Anna","Pedro"],
+        "howMuchPv": -5,
+        "howMuchFriendship": -4
+      }
+    },
+
+    {
+      "choix1": "feur",
+      "choix2": "feur",
+      "choix3":"feur",
+      "choix4": "feur",
+      "numero": 2,
+      "consequences":
+      {
+            "friendship?": false,
+            "pv?": false,
+            "characPv": "",
+            "characFriendship": "",
+            "howMuchPv": 0,
+            "howMuchFriendship": 0
+
+      }
+    }
+],
+
+  "sequence2": [
+    {
+      "choix1": "feur",
+      "choix2": "feur",
+      "choix3":"feur",
+      "choix4": "feur",
+      "numero": 4,
+      "consequences":
+      {
+            "friendship?": true,
+            "pv?": true,
+            "characPv": ["Jeanette","Hans"],
+            "characFriendship": ["Anna","Pedro"],
+            "howMuchPv": -5,
+            "howMuchFriendship": -4
+      }
+    },
+
+    {
+      "choix1": "feur",
+      "choix2": "feur",
+      "choix3":"feur",
+      "choix4": "feur",
+      "numero": 5,
+      "consequences":
+      {
+        "friendship?": true,
+        "pv?": true,
+        "characPv": ["Jeanette","Hans"],
+        "characFriendship": ["Anna","Pedro"],
+        "howMuchPv": -5,
+        "howMuchFriendship": -4
+
+    }
+  }
+]
+}
