@@ -1,4 +1,6 @@
 # StarLight
-Jeux textuelle avec interface graphique réalisé en C++ avec QT, utilise la librairie RappidJSON. 
+Jeux textuelle en cours de développement avec interface graphique réalisé en C++ avec QT, utilise la librairie RapidJSON. 
 
-qfdq
+## Description
+
+
