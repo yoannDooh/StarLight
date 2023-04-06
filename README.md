@@ -1,6 +1,10 @@
 # StarLight
 Jeux textuelle en cours de développement avec interface graphique réalisé en C++ avec QT, utilise la librairie RapidJSON.
-Il raconte l'histoire
+
+## Synopsis 
+En 21XX, Johnson est envoyé en mission dans le vaisseau StarLight, composé de 25 astronautes dirigé par Kalpana Chawla. Cela fait 5 ans qu'ils réalisent des recherches scientifiques à travers l’espace et ils vont maintenant bientôt rentrée chez eux. En pleine conversation avec ses collègues l’alerte rouge retentit et lui et 4 autres membres à savoir :Anna Kikina, Pedro Pontes, Hans Schlegel et Jeanette Epps sont envoyés pour enquêter, mais tout ne se passe pas comme prévu, ils découvrent des racines extraterrestres et étranges parcourant tout le vaisseau et infectant ses amis les faisant perdre leur bon sens. Il va devoir tenter de résoudre ce mystère et sauver la situation.   
+
+
 
 ## Description du projet 
 
