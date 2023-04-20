@@ -15,5 +15,8 @@ Le projet étant très loin d'être fini il reste de nombreuses fonctionnalités
 
 1. L'organisation du projet nécessite d'être revu, des fonctions êtres écrite pour éviter des répétitions. Par exemple il serait nécessaire de programmer une fonction permettant de lire un fichier JSON, elle prendrait en argument un std::string contenant le chemin relatif du fichier et retournerai une référence au type rapidjson::Value.
 
-2. Je n'ai malheureusement pas réussi à temps à intégrer les choix dans le jeu, par difficulté à me servir à du système de Layout de qt en conservant la mise en forme voulu. Je ne m'en suis donc pas servi mais n'ai pas réussi à temps à intégrer une fonction générant lors de l'exécution une nouvelle réplique à chaque fois que la touche entre est pressé.
+2. Je n'ai pas encore pu intégrer le système de choix dans le jeu par difficulté à me servir à du système de Layout de qt.
+
+3.Je n'ai pas encore programmé la fonction générant une nouvelle réplique lorque la touche entrée est pressé. 
+
 
