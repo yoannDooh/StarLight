@@ -17,6 +17,6 @@ Le projet étant très loin d'être fini il reste de nombreuses fonctionnalités
 
 2. Je n'ai pas encore pu intégrer le système de choix dans le jeu par difficulté à me servir à du système de Layout de qt.
 
-3.Je n'ai pas encore programmé la fonction générant une nouvelle réplique lorque la touche entrée est pressé. 
+3. Je n'ai pas encore programmé la fonction générant une nouvelle réplique lorque la touche entrée est pressé. 
 
 
